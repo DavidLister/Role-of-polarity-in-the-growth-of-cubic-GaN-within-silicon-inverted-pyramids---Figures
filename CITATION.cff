@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or adapt any of the images or data in this repository, please cite the associated manuscript:"
+title: "Role of polarity in the growth of cubic GaN within silicon inverted pyramids"
+type: dataset
+authors:
+  - family-names: "Lister"
+    given-names: "David"
+    affiliation: "Simon Fraser University"
+  - family-names: "Radford"
+    given-names: "Melissa"
+    affiliation: "Simon Fraser University"
+  - family-names: "Fortin"
+    given-names: "Sara"
+    affiliation: "Simon Fraser University"
+  - family-names: "Janjua"
+    given-names: "Bilal"
+    affiliation: "Credo Semiconductor"
+  - family-names: "Asad"
+    given-names: "Mohsen"
+    affiliation: "Credo Semiconductor"
+  - family-names: "Kavanagh"
+    given-names: "Karen"
+    affiliation: "Simon Fraser University"
+  - family-names: "Watkins"
+    given-names: "Simon"
+    affiliation: "Simon Fraser University"
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2606.30924"
+    description: "arXiv preprint"
+date-released: 2026-06-29
